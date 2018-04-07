@@ -1,3 +1,6 @@
+
+
+pre pre 
 pre if(check(三要素))  //不一致失败
 {
 	exit(直接拒绝)	
