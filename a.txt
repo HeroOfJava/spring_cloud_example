@@ -1,7 +1,9 @@
 
+master
 
-pre pre 
-pre if(check(三要素))  //不一致失败
+
+ if(check(三要素))  //不一致失败
+>>>>>>> 4058c2decdc7cb5849956961d5daa64ed9279aea
 {
 	exit(直接拒绝)	
 }
